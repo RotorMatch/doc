@@ -13,27 +13,23 @@
 
 * [What is an event?](events/presentation.md)
 * [Create an event](events/create-an-event.md)
-* [Manage registrations](events/manage-participants.md)
-  * [Registrations](events/licenses.md)
-  * [Licenses](events/licenses.md)
-* [Manage races](events/manage-races.md)
+* [Manage](events/manage-event.md)
+  * [Participants](events/manage/participants.md)
+  * [Licenses](events/manage/licenses.md)
+  * [Races](events/manage-races.md)
 * [Race formats](events/race-formats.md)
 * [Timing systems](events/timing-systems.md)
+  * [Rm Link](events/rm-link.md)
+* [Streaming Tools](events/streaming-tools.md)
 * [Plans](events/plans.md)
 
 ## Pilots
 
 * [What is a pilot?](pilots/presentation.md)
-* [Create an event](pilots/create-an-event.md)
-
 
 ## Teams
 
 * [What is a team?](teams/presentation.md)
-
-## RM Link
-
-* [What is RM Link?](rm-link/presentation.md)
 
 ## Features
 

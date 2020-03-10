@@ -13,7 +13,7 @@
 
 * [What is an event?](events/presentation.md)
 * [Create an event](events/create-an-event.md)
-* [Manage](events/manage-event.md)
+* [Manage an event](events/manage-event.md)
   * [Participants](events/manage/participants.md)
   * [Licenses](events/manage/licenses.md)
   * [Races](events/manage-races.md)
@@ -31,8 +31,8 @@
 
 * [What is a team?](teams/presentation.md)
 
-## Features
-
 ## Resources
 
+* [FAQ](faq.md)
 * [Blog](http://blog.rotormatch.com)
+* [Job](http://blog.rotormatch.com)

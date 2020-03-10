@@ -20,4 +20,4 @@
 
 ## Resources
 
-* [Blog](https://blog.rotormatch.com)
+* [Blog](http://blog.rotormatch.com)

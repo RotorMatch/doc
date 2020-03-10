@@ -34,5 +34,12 @@
 ## Resources
 
 * [FAQ](faq.md)
+* Contact Us
+  * [Discord](https://discord.gg/nKVJUfZ)
+  * [Facebook](http://www.facebook.com/rotormatch)
+  * [FB Group](https://www.facebook.com/groups/1804431726515190)
+  * [Twitter](http://www.twitter.com/rotormatch)
+  * [Instagram](http://www.instagram.com/rotormatch)
+  * [Youtube](https://www.youtube.com/c/rotormatch)
 * [Blog](http://blog.rotormatch.com)
 * [Job](http://blog.rotormatch.com/jobs/)

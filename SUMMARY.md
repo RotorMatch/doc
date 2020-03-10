@@ -2,7 +2,6 @@
 
 * [What is RotorMatch](README.md)
 * [Concepts](concepts.md)
-* [Pricing](pricing.md)
 
 ## Quickstart
 
@@ -14,13 +13,13 @@
 
 * [What is an event?](events/presentation.md)
 * [Create an event](events/create-an-event.md)
-  * [Subscription](events/subscription.md)
 * [Manage registrations](events/manage-participants.md)
   * [Registrations](events/licenses.md)
   * [Licenses](events/licenses.md)
 * [Manage races](events/manage-races.md)
-  * [Race formats](events/race-formats.md)
-  * [Timing systems](events/timing-systems.md)
+* [Race formats](events/race-formats.md)
+* [Timing systems](events/timing-systems.md)
+* [Plans](events/plans.md)
 
 ## Pilots
 

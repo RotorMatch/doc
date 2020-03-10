@@ -30,4 +30,4 @@ The overall ranking determines the classification which will be used to distribu
 
 The competition ends when all rounds are finished.
 
-{% hint style="info" %} This race format is [free](plans.md#free-plan), no subscription is required {% endhint %}
+{% hint style="info" %} This race format is [free](https://docs.rotormatch.com/events/plans#free-plan), no subscription is required {% endhint %}

@@ -18,6 +18,8 @@ You can choose between 3 different scenarios of FAI 2020 format for you event.
 
 Perfect race format to maximize the number of flights. All pilots fly the same number of times.
 
+![](../assets/rotormatch-point-table.png)
+
 The competition consists of one or more qualifications, and several rounds of competition.
 
 At the end of the qualification phases, the pilots are divided into groups, from the first round, according to their rank.

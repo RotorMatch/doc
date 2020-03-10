@@ -35,4 +35,4 @@
 
 * [FAQ](faq.md)
 * [Blog](http://blog.rotormatch.com)
-* [Job](http://blog.rotormatch.com)
+* [Job](http://blog.rotormatch.com/jobs/)

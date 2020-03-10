@@ -14,6 +14,7 @@
 
 * [What is an event?](events/presentation.md)
 * [Create an event](events/create-an-event.md)
+  * [Subscription](events/subscription.md)
 * [Manage registrations](events/manage-participants.md)
   * [Registrations](events/licenses.md)
   * [Licenses](events/licenses.md)

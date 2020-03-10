@@ -6,6 +6,8 @@ We support many race formats on RotorMatch, like FAI format with double eliminat
 
 There are 3 different scenarios of FAI format for you event available on RotorMatch.
 
+{% hint style="info" %} The FAI format require a subscription ([see subscription](subscription.md)) {% endhint %}
+
 ### Scenario A
 
 16 competitors selected from qualification stage
@@ -20,4 +22,4 @@ There are 3 different scenarios of FAI format for you event available on RotorMa
 
 ## RotorMatch Point
 
-{% hint style="info" %} 🧙 **Tips:** This race format si free, no subscription is required {% endhint %}
+{% hint style="info" %} This race format is free, no subscription is required {% endhint %}

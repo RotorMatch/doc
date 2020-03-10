@@ -19,7 +19,7 @@
   * [Races](events/manage-races.md)
 * [Race formats](events/race-formats.md)
 * [Timing systems](events/timing-systems.md)
-  * [Rm Link](events/rm-link.md)
+  * [RM Link](events/rm-link.md)
 * [Streaming Tools](events/streaming-tools.md)
 * [Plans](events/plans.md)
 

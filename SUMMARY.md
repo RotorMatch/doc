@@ -26,6 +26,7 @@
 ## Pilots
 
 * [What is a pilot?](pilots/presentation.md)
+* [Ranking System](pilots/ranking-system.md)
 
 ## Teams
 
